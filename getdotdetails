@@ -1,0 +1,17 @@
+{
+    "option1":
+    {
+        "hrefs": ["#aboutKPI","#changeKPIfilter","#editKPI","#cloneKPI","#settargetsKPI","#createcontestKPI"],
+        "data": [ "About this KPI","Change KPI Filter","Edit KPI","Clone KPI", "Set Targets for this KPI","Create Contest from this KPI"]
+    },
+
+    "option2":
+    {
+        "hrefs": ["#removeKPI", "removeKPIperm"],
+        "data": ["Remove KPI from this Dashboard","Remove KPI permanently from the System"]
+    }
+}
+
+ 
+           
+           

@@ -1,0 +1,52 @@
+{
+    "tile1":
+    {
+    "id": "Leads Created",
+    "val": "16",
+    "percentage": "50%",
+    "company": "Ubisoft Studios",
+    "href": "#leaddetails"
+},
+ "tile2":
+    {
+    "id": "Deals Created",
+    "val": "50",
+    "percentage": "11%",
+    "company": "Ubisoft Studios",
+    "href": "#dealdetails"
+},
+"tile3":
+    {
+    "id": "Sales Won",
+    "val": "2",
+    "percentage": "19%",
+    "company": "Ubisoft Studios",
+    "href": "#salewondetails"
+},
+"tile4":
+    {
+    "id": "Sales Lost",
+    "val": "6",
+    "percentage": "2%",
+    "company": "Ubisoft Studios",
+    "href": "#salelostdetails"
+},
+"tile5":
+    {
+    "id": "Revenue Generated",
+    "val": "$40000",
+    "percentage": "50%",
+    "company": "Ubisoft Studios",
+    "href": "#revenuedetails"
+},
+"tile6":
+    {
+    "id": "Rahul",
+    "val": "$50000",
+    "percentage": "40%",
+    "company": "Ubisoft Studios",
+    "href": "#rahuldetails"
+}
+
+
+}
